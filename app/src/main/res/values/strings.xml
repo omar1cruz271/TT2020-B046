@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">recibemsm</string>
+    <string name="cons">Registro de presiones</string>
+    <string name="reg">Registrar paciente</string>
+    <string name="lista">Lista de pacientes</string>
+    <string name="xsops">Opciones</string>
+
+    <string-array name="sexo_array">
+            <item>Hombre</item>
+            <item>Mujer</item>
+        </string-array>
+
+</resources>
